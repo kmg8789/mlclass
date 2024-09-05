@@ -1,4 +1,4 @@
-# AI_ML
+# ML Class
 
 * This is for the class **_Machine Learning for AI_** in CAU.
 
